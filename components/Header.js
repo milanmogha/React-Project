@@ -9,7 +9,7 @@ function Header() {
         <h3 className="ml-32 text-6xl font-semibold opacity-90 pt-24">
           Call us
         </h3>
-        <p className="underline decoration-gray-500 ml-32 text-base pt-1">+91 9354566860</p>
+        <p className="underline decoration-gray-500 ml-32 text-base pt-1">+91 9760051792</p>
 
         <h3 className="ml-32 text-6xl font-semibold opacity-90 pt-10">
           Location
